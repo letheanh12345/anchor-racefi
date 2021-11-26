@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/nguyenthingoan/Desktop/SOLANA/anchor/examples/tutorial/basic-2/target/bpfel-unknown-unknown/release/build/typenum-dda84fa0184bd5ce/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/nguyenthingoan/Desktop/SOLANA/anchor/examples/tutorial/basic-2/target/bpfel-unknown-unknown/release/build/typenum-dda84fa0184bd5ce/out/op.rs

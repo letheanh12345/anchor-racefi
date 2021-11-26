@@ -1,0 +1,19 @@
+Streaming transaction logs mentioning Fgd78fyJhwis4Pzww7PK7o4Wx3pYM5e3tYX3TkGZNfnE. Confirmed commitment
+Transaction executed in slot 4:
+  Signature: 5oySPi8GrUXARQqmrSx9mpG77AkHsLC11iUua61MPeQGbbxjgnRLp2hBuogJcuTH4twLDbA5q3ycGpHQzj1FPBi5
+  Status: Ok
+  Log Messages:
+    Program Fgd78fyJhwis4Pzww7PK7o4Wx3pYM5e3tYX3TkGZNfnE invoke [1]
+    Program log: Instruction: Create
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program Fgd78fyJhwis4Pzww7PK7o4Wx3pYM5e3tYX3TkGZNfnE consumed 10220 of 200000 compute units
+    Program Fgd78fyJhwis4Pzww7PK7o4Wx3pYM5e3tYX3TkGZNfnE success
+Transaction executed in slot 5:
+  Signature: 4aziPHQqMjGjokJ5N6uv6LHsPD4mt5mFkR98j9shEQJMgC6o2qkztUgXFpNTsqwXun2KxJjdhqLXcb7Ywszw2UML
+  Status: Ok
+  Log Messages:
+    Program Fgd78fyJhwis4Pzww7PK7o4Wx3pYM5e3tYX3TkGZNfnE invoke [1]
+    Program log: Instruction: Increment
+    Program Fgd78fyJhwis4Pzww7PK7o4Wx3pYM5e3tYX3TkGZNfnE consumed 2740 of 200000 compute units
+    Program Fgd78fyJhwis4Pzww7PK7o4Wx3pYM5e3tYX3TkGZNfnE success

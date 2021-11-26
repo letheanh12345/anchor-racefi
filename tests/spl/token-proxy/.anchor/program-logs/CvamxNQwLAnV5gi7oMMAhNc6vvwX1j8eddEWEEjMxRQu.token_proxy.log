@@ -1,0 +1,49 @@
+Streaming transaction logs mentioning CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu. Confirmed commitment
+Transaction executed in slot 96826472:
+  Signature: 46vUBrhCBmgTiuGzaarvpUCS45nVTRajK6duU9E6oxJRvthc5PjwocC97EMszCF5Af8xtxsvYpkr8jczJitfKS3z
+  Status: Ok
+  Log Messages:
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu invoke [1]
+    Program log: Instruction: ProxyMintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2779 of 195080 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu consumed 8467 of 200000 compute units
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu success
+Transaction executed in slot 96826474:
+  Signature: 46vUBrhCBmgTiuGzaarvpUCS45nVTRajK6duU9E6oxJRvthc5PjwocC97EMszCF5Af8xtxsvYpkr8jczJitfKS3z
+  Status: Ok
+  Log Messages:
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu invoke [1]
+    Program log: Instruction: ProxyMintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2779 of 195080 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu consumed 8467 of 200000 compute units
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu success
+Transaction executed in slot 96826478:
+  Signature: 4QPu7HbKqLPUrC66caF8GytkzWzMp6rYwaDb81vvdaRBJbRP75X82GZukLugZjuoTN1W5kWeMk3fAiqn8awmSWft
+  Status: Ok
+  Log Messages:
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu invoke [1]
+    Program log: Instruction: ProxySetAuthority
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: SetAuthority
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1670 of 195869 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu consumed 6396 of 200000 compute units
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu success
+Transaction executed in slot 96826484:
+  Signature: 4QPu7HbKqLPUrC66caF8GytkzWzMp6rYwaDb81vvdaRBJbRP75X82GZukLugZjuoTN1W5kWeMk3fAiqn8awmSWft
+  Status: Ok
+  Log Messages:
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu invoke [1]
+    Program log: Instruction: ProxySetAuthority
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: SetAuthority
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1670 of 195869 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu consumed 6396 of 200000 compute units
+    Program CvamxNQwLAnV5gi7oMMAhNc6vvwX1j8eddEWEEjMxRQu success
